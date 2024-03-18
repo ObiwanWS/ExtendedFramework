@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ExtendedFramework",
+	"Description": "Extended classes of Unreal's Game Framework adding more features and fixing bugs.",
+	"Category": "Engine",
+	"CreatedBy": "Obiwan Medeiros",
+	"CreatedByURL": "https://github.com/ObiwanWS/ExtendedFramework.git",
+	"DocsURL": "https://github.com/ObiwanWS/ExtendedFramework.git",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/ObiwanWS/ExtendedFramework.git",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ExtendedGameFramework",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
